@@ -1,0 +1,15 @@
+C:\Users\prdb\Desktop\IsayProjects\Test0\bin\Debug\net6.0\Test0.exe
+C:\Users\prdb\Desktop\IsayProjects\Test0\bin\Debug\net6.0\Test0.deps.json
+C:\Users\prdb\Desktop\IsayProjects\Test0\bin\Debug\net6.0\Test0.runtimeconfig.json
+C:\Users\prdb\Desktop\IsayProjects\Test0\bin\Debug\net6.0\Test0.dll
+C:\Users\prdb\Desktop\IsayProjects\Test0\bin\Debug\net6.0\Test0.pdb
+C:\Users\prdb\Desktop\IsayProjects\Test0\obj\Debug\net6.0\Test0.csproj.AssemblyReference.cache
+C:\Users\prdb\Desktop\IsayProjects\Test0\obj\Debug\net6.0\Test0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prdb\Desktop\IsayProjects\Test0\obj\Debug\net6.0\Test0.AssemblyInfoInputs.cache
+C:\Users\prdb\Desktop\IsayProjects\Test0\obj\Debug\net6.0\Test0.AssemblyInfo.cs
+C:\Users\prdb\Desktop\IsayProjects\Test0\obj\Debug\net6.0\Test0.csproj.CoreCompileInputs.cache
+C:\Users\prdb\Desktop\IsayProjects\Test0\obj\Debug\net6.0\Test0.dll
+C:\Users\prdb\Desktop\IsayProjects\Test0\obj\Debug\net6.0\refint\Test0.dll
+C:\Users\prdb\Desktop\IsayProjects\Test0\obj\Debug\net6.0\Test0.pdb
+C:\Users\prdb\Desktop\IsayProjects\Test0\obj\Debug\net6.0\Test0.genruntimeconfig.cache
+C:\Users\prdb\Desktop\IsayProjects\Test0\obj\Debug\net6.0\ref\Test0.dll
